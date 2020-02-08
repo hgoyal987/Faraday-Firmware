@@ -19,10 +19,6 @@
 
 /** @name Device Configuration Definitions
 * 	@brief Definitions that govern the operations of the device configuration application command interface
-@{**/
-#define MAX_CONFIGURATION_UPDATE_PACKET_LEN 124 /**< Maximum allowable length of the device configuration update command payload */
-/** @}*/
-
 
 /** @name Read Device Memory Location Definitions
 * 	@brief Definitions used to operate the CC430 Flash memory read commands
